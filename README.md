@@ -1,2 +1,2 @@
 # luaNatoPhoneticAlphaConvertor
-A "NATO phonetic alphabet convetor written in lua.
+A "NATO phonetic alphabet" convetor written in lua.
